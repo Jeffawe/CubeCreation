@@ -28,6 +28,7 @@ std::vector<Edge> edges{
          Edge{ 2, 6 },
 };
 
+/*
 //default C++ function
 int main(int argc, char* argv[])
 {
@@ -53,7 +54,7 @@ int main(int argc, char* argv[])
         render3D.render();
     }
 
-    /*
+
     if (SDL_Init(SDL_INIT_EVERYTHING) < 0)
     {
         std::cout << "SDL initialization failed. SDL Error: " << SDL_GetError();
@@ -65,8 +66,9 @@ int main(int argc, char* argv[])
 
     std::cin.get();
     return 0;
-    */
+
 
 
     return 0;
 }
+*/
